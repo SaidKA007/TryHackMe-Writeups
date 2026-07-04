@@ -8,7 +8,7 @@ Search for the hostname.
 
 The corresponding IP address will be displayed.
 
----
+![Resolved Addresses](resolved-addresses.png)
 
 ## Task 2 - View protocol conversations
 
@@ -18,7 +18,7 @@ Statistics → Conversations
 
 This window displays all conversations grouped by protocol.
 
----
+![Conversations](conversations.png)
 
 ## Task 3 - Find the most active IP address
 
@@ -27,3 +27,6 @@ Open:
 Statistics → Endpoints
 
 Sort by **Rx Packets** or **Rx Bytes**.
+
+![endpoint](endpoint.png)
+
